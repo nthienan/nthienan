@@ -8,9 +8,3 @@
 - [Dynamic routing for multi-tenant multi-region React application with AWS CloudFront](https://dev.to/aws-builders/dynamic-routing-for-multi-tenant-multi-region-react-application-with-aws-cloudfront-389g)
 
 - [Tracking and Notifying on AWS Sign-in activities](https://dev.to/aws-builders/tracking-and-notifying-on-aws-sign-in-activities-31el)
-
-
-## GitHub Stats
-
-[![An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nthienan&show_icons=true&hide_rank=true&theme=dark)](https://github.com/nthienan)
-[![An's Most Used Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=nthienan&layout=compact&theme=react)](https://github.com/nthienan)
