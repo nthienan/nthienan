@@ -12,5 +12,5 @@
 
 ## GitHub Stats
 
-[![An's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nthienan&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)](https://github.com/nthienan)
-[![An's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nthienan&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)](https://github.com/nthienan)
+[![An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nthienan&show_icons=true&hide_rank=true&theme=dark)](https://github.com/nthienan)
+[![An's Most Used Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=nthienan&layout=compact&theme=react)](https://github.com/nthienan)
