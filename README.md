@@ -1,4 +1,6 @@
 ## Blog Posts
+- [Building Private Inter-region Cross-account Communication Within AWS](https://community.aws/posts/buiding-private-inter-region-cross-account-communication-within-aws-network)
+
 - [Transforming Amazon API Gateway Access Log Into Prometheus Metrics](https://community.aws/posts/transforming-amazon-api-gateway-access-log-into-prometheus-metrics)
 
 - [A GitOps Way To Manage Grafana Data Sources At Scale](https://dev.to/aws-builders/a-gitops-way-to-manage-grafana-data-sources-at-scale-59la)
