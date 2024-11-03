@@ -1,4 +1,6 @@
 ## Blog Posts
+- [Automating Snapshot Blockchain Data](https://nthienan.substack.com/p/automating-snapshot-blockchain-data)
+
 - [Building Private Inter-region Cross-account Communication Within AWS](https://community.aws/posts/buiding-private-inter-region-cross-account-communication-within-aws-network)
 
 - [Transforming Amazon API Gateway Access Log Into Prometheus Metrics](https://community.aws/posts/transforming-amazon-api-gateway-access-log-into-prometheus-metrics)
