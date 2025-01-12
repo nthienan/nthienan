@@ -1,4 +1,6 @@
 ## Blog Posts
+- [Implementing RDS Event Notification with Terraform](https://community.aws/content/2ftwOpabG8U7yoKRuN65kuXRA0I/implementing-rds-event-notification-with-terraform)
+
 - [Automating Snapshot Blockchain Data](https://nthienan.substack.com/p/automating-snapshot-blockchain-data)
 
 - [Building Private Inter-region Cross-account Communication Within AWS](https://community.aws/posts/buiding-private-inter-region-cross-account-communication-within-aws-network)
